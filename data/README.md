@@ -1,25 +1,17 @@
-# Indiana COVID-19 project sample dataset
+# Indiana COVID-19 sample data
 
-This file contains a small sample dataset designed for a COVID-19 analysis project in Indiana. It is suitable for demonstration, educational purposes, and early portfolio work.
+This folder contains a small sample dataset for a COVID-19 project focused on Indiana. The dataset is intended for educational and portfolio work.
 
-## Data fields
+## Data columns
 
-- `date`: the reporting date
-- `new_cases`: daily reported cases
+- `date`: reporting date
+- `new_cases`: total new cases reported that day
 - `total_cases`: cumulative case total
-- `new_deaths`: daily reported deaths
+- `new_deaths`: total new deaths reported that day
 - `total_deaths`: cumulative deaths
-- `positivity_rate`: proportion of tests returning positive
-- `vaccinated_total`: total vaccinated individuals recorded in the dataset
+- `positivity_rate`: percentage of tests returning positive
+- `vaccinated_total`: total vaccination count represented in the sample
 
-## Dataset source
+## Notes
 
-This sample dataset is intended to simulate Indiana COVID-19 patterns. For official public health analysis, use data from:
-
-- Indiana State Department of Health: https://www.in.gov/isdh/
-- CDC Data Tracker: https://covid.cdc.gov/covid-data-tracker/
-- Our World in Data: https://ourworldindata.org/covid-deaths
-
-## Note
-
-Replace this file with a real official Indiana dataset when preparing a final research portfolio project.
+For a final portfolio or research project, replace this sample file with official Indiana data from a trustworthy public health source.

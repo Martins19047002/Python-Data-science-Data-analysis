@@ -2,39 +2,38 @@
 
 ## Overview
 
-The COVID-19 pandemic created a large and rapidly evolving body of public health research. Understanding Indiana-specific trends requires placing local surveillance patterns in the context of national and global epidemiological evidence. The literature highlights three major themes: the importance of surveillance systems, the relationship between vaccination and severe outcomes, and the role of public health communication in managing surges.
+The COVID-19 pandemic created a vast body of public health and epidemiological research. To interpret Indiana-specific trends, it helps to place the state in the broader context of national and international COVID-19 dynamics. This literature review focuses on four themes: epidemic wave behavior, testing and surveillance, vaccination effects, and dashboard-based communication.
 
-## 1. Epidemiological patterns and pandemic waves
+## 1. Epidemic waves and public health dynamics
 
-A core finding in epidemiology is that infectious diseases often produce wave-like transmission patterns driven by changes in human behavior, policy interventions, immunity, and biological factors. Studies on COVID-19 consistently show that case numbers, hospitalizations, and mortality can rise sharply after periods of high transmission and then decline as interventions or immunity reduce spread.
+A major insight from the literature is that infectious diseases often follow wave-like patterns. COVID-19 was no exception: transmission rose sharply after periods of behavioral change, policy shifts, and social mixing, and then declined as interventions or immunity temporarily reduced spread. These patterns were often irregular across regions because of differences in healthcare capacity, population density, mobility, and policy implementation.
 
-This framing is relevant to Indiana because states often experience uneven timing of peaks depending on local policy, population density, healthcare system capacity, and testing intensity.
+This is relevant to Indiana because the state experienced time-varying patterns in reported infections, hospitalizations, and deaths across the pandemic timeline.
 
-## 2. The role of testing and surveillance
+## 2. Testing, surveillance, and interpretation
 
-Public health surveillance systems are essential for identifying outbreaks early. Several public health reports emphasize that greater testing volume often reveals more infections, especially during periods of rising transmission. However, testing alone does not fully explain disease severity; it must be interpreted together with hospitalization, death, and positivity trends.
+Public health systems rely on testing data to detect outbreaks and monitor trends. However, the literature also emphasizes that testing volume and test positivity must be interpreted carefully. An increase in case counts can reflect greater transmission, expanded testing, or both. Positivity rate helps interpret whether rising case counts are likely to reflect genuine widespread infection or simply more testing activity.
 
-Thus, in Indiana, an analysis of cases and testing activity should interpret daily changes carefully rather than assuming every increase in cases reflects a single underlying cause.
+This makes testing data essential for an Indiana analysis, but not sufficient on its own. It must be interpreted alongside daily cases, deaths, and vaccination data.
 
 ## 3. Vaccination and severe outcomes
 
-The literature strongly suggests that vaccination reduced severe disease and mortality in many settings, particularly after initial rollout phases. Vaccination did not eliminate transmission in all contexts, but it reduced hospitalization and death when combined with public health measures and healthcare system preparedness.
+The literature makes a clear case that vaccination reduced severe disease outcomes in many settings, especially after widespread uptake. While vaccines did not eliminate transmission in all contexts, they were strongly associated with reduced hospitalization and mortality, especially when combined with surveillance systems and clinical management.
 
-In a state-level trend analysis, vaccinations should be considered alongside case and death curves to examine how severe outcomes changed over time.
+This suggests that Indiana’s later pandemic trends should be interpreted with vaccination coverage in mind.
 
-## 4. Dashboard-based public health communication
+## 4. Data dashboards for public health storytelling
 
-Research in digital epidemiology and public health communication shows that dashboards improve visibility, transparency, and decision-making. Interactive dashboards make burden indicators easier to understand for both researchers and the public. This is particularly valuable for communicating COVID trends during periods of uncertainty.
-
-This project uses that same logic by building a simple dashboard to visualize Indiana COVID patterns in a readable format.
-
-## Key sources for further reading
-
-- Centers for Disease Control and Prevention. COVID Data Tracker.
-- Indiana State Department of Health. Indiana COVID-19 dashboard and surveillance data.
-- World Health Organization. COVID-19 dashboard and public health guidance.
-- Dong, E., Du, H., and Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real time.
+Research on digital epidemiology and public health communication shows that dashboards improve transparency, understanding, and communication. Dashboards allow decision-makers and the public to explore trends without needing to interpret raw tables. This is useful for an applied project because it demonstrates not only analysis but also communication of findings.
 
 ## Relevance to this project
 
-These literature themes directly support the research questions in this repository. The analysis focuses on how Indiana’s COVID-19 pattern evolved over time, which policy or public health variables seem most relevant, and how interpretable data visualizations can communicate findings clearly.
+This project uses these ideas to explore Indiana COVID-19 data in a structured way. It investigates whether local data show distinct waves, how testing and positivity relate to case detection, whether vaccination timing corresponds with changing outcomes, and how clear visualizations can communicate public health information effectively.
+
+## Key references
+
+- Centers for Disease Control and Prevention. COVID Data Tracker.
+- Indiana State Department of Health. COVID-19 surveillance information.
+- World Health Organization. COVID-19 information and public health guidance.
+- Dong, E., Du, H., and Gardner, L. (2020). An interactive web-based dashboard to track COVID-19 in real time.
+
